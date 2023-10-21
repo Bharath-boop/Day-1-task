@@ -1,0 +1,23 @@
+Write a blog about objects and its internal representation in Javascript?
+
+    Objects:-
+         Objects is a groups of a data that is stored as a series of name values pairs
+         encapslated in one entity.such as number,string,boolean all are always objects.
+         Objects diclaration is variable name folloed by key and values.
+
+         Example:-
+            if a car is object, it will have engine,color,name,Cubic capacity this is a 
+            car properties so the car is a object.
+
+            SYNTAX:-
+                var car={
+                    name:"BMW",
+                    color:"red",
+                    engine:"2000HSP",
+                    Cubic capacity:1500
+                }
+                console.log(car);
+            OUTPUT:-
+                {name:"BMW";color:"red";engine:"2000HSP";Cubic capacity:1500}
+ 
+    

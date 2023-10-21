@@ -1,0 +1,11 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2?
+
+    HTTP1.1:-
+         * Load resoures one by one.
+         * Responces time is high.
+         * HTTP1.1 not used in any method its work in ifself.
+
+    HTTP2:-
+         * Load resoures in one single TCP connection.(TCP-Transmission control protocal).
+         * Responces time is low.
+         * HTTP2 used in HPACK method.     
